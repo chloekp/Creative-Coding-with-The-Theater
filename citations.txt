@@ -1,0 +1,12 @@
+Media Citations:
+"cheering.wav" found at https://www.wavsource.com/sfx/sfx.htm
+"ballhit.wav" found at https://www.wavsource.com/sfx/sfx.htm
+"volleyball" found at https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fvolleyball-clipart-volleyball-vector-volleyball-illustration-sports-vector-sports-clipart-sport_56095637.htm&psig=AOvVaw369K7uNFQToH-iPAaH-jIS&ust=1743700135427000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjdlqzruYwDFQAAAAAdAAAAABAE
+"volleyball1" found athttps://www.google.com/imgres?q=volleyball%20clipart&imgurl=https%3A%2F%2Fwallpapers.com%2Fimages%2Ffeatured%2Fvolleyball-clipart-png-og2ncc2hrsurtl5l.jpg&imgrefurl=https%3A%2F%2Fwallpapers.com%2Fvolleyball-clipart-png&docid=R2BHl4Yxo2EkpM&tbnid=CwWORQ9oAJGLuM&vet=12ahUKEwju4oOWydGMAxWuEkQIHd2KIxMQM3oECBoQAA..i&w=861&h=900&hcb=2&ved=2ahUKEwju4oOWydGMAxWuEkQIHd2KIxMQM3oECBoQAA
+"volleyball player1" https://www.google.com/imgres?q=volleyball%20player%20clipart&imgurl=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F137168%2Fisolated%2Fsvg%2F0df8cd0cdfdf27a7178188ca8b27e9aa.svg&imgrefurl=https%3A%2F%2Fwww.vexels.com%2Fpng-svg%2Fpreview%2F137168%2Fwoman-volleyball-player-1&docid=5xCUWYeuS5K-dM&tbnid=me08a8q3PE5SfM&vet=12ahUKEwjgtPKKydGMAxXPMEQIHajwKkkQM3oECCgQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwjgtPKKydGMAxXPMEQIHajwKkkQM3oECCgQAA
+"volleyball player" found at https://www.google.com/url?sa=i&url=https%3A%2F%2Fcreazilla.com%2Fmedia%2Fclipart%2F1795152%2Fvolleyball-player&psig=AOvVaw2ipU8B2BK4It7KfaoZ_AfM&ust=1743700201092000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCwzs7ruYwDFQAAAAAdAAAAABAE
+"volleyball court" found at https://www.google.com/url?sa=i&url=https%3A%2F%2Fcreazilla.com%2Fmedia%2Fclipart%2F15596034%2Fvolleyball-court&psig=AOvVaw0wqtAzWMpwkB5VYwruOL9i&ust=1743787107242000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCSm6uvvIwDFQAAAAAdAAAAABAE
+"error" found at https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ARed_X.svg&psig=AOvVaw0zeJgMDEMvYC6WdThhaOHP&ust=1744348720285000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCBxMnbzIwDFQAAAAAdAAAAABAE
+AI Citations:
+     Used ChatGPT to debug my display() method that was suspposed to use polymoprhism and inheritance. It told me to create the GameObject class as it defines behavior for any object that will be drawm.
+     It makes my Player and Game subclasses define the display methods.
